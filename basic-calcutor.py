@@ -1,5 +1,5 @@
 print("Lütfen istediğiniz işlemi seçiniz -\n" \
-        "1. Toplama\n"\
+        "1. Toplama\n" \
         "2. Çıkarma\n" \
         "3. Çarpma\n" \
         "4. Bölme\n")
